@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "b2b",
+			"Path": "D:\\Programming\\git-repos\\B2B\\b2b\\Source\\b2b.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "b2bEditor",
+			"Path": "D:\\Programming\\git-repos\\B2B\\b2b\\Source\\b2bEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

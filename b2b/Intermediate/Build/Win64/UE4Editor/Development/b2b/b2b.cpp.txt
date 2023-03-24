@@ -1,0 +1,2 @@
+D:\Programming\git-repos\B2B\b2b\Intermediate\Build\Win64\UE4Editor\Development\b2b\Definitions.b2b.h
+d:\programming\git-repos\b2b\b2b\source\b2b\b2b.h

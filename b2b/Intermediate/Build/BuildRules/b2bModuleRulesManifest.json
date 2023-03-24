@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Programming\\git-repos\\B2B\\b2b\\Source\\b2b\\b2b.Build.cs",
+		"D:\\Programming\\git-repos\\B2B\\b2b\\Source\\b2b.Target.cs",
+		"D:\\Programming\\git-repos\\B2B\\b2b\\Source\\b2bEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}
