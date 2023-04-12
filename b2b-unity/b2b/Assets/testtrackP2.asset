@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: testtrackP2
+  m_EditorClassIdentifier: 
+  mEventID: testtrackP2
+  mEventList:
+  - mStartSample: 24548
+    mEndSample: 24548
+  - mStartSample: 48921
+    mEndSample: 48921
+  - mStartSample: 68678
+    mEndSample: 68678
+  - mStartSample: 78086
+    mEndSample: 78086
+  - mStartSample: 89375
+    mEndSample: 89375
+  - mStartSample: 110073
+    mEndSample: 110073
+  - mStartSample: 131711
+    mEndSample: 131711
+  - mStartSample: 152497
+    mEndSample: 152497
+  - mStartSample: 162846
+    mEndSample: 162846
+  - mStartSample: 173195
+    mEndSample: 173195
+  - mStartSample: 195686
+    mEndSample: 195686
+  - mStartSample: 214502
+    mEndSample: 214502
+  - mStartSample: 234347
+    mEndSample: 234347
+  - mStartSample: 246577
+    mEndSample: 246577
+  - mStartSample: 256838
+    mEndSample: 256838
+  - mStartSample: 275742
+    mEndSample: 275742
+  - mStartSample: 297468
+    mEndSample: 297468
+  - mStartSample: 319959
+    mEndSample: 319959
+  - mStartSample: 339628
+    mEndSample: 339628
+  - mStartSample: 362207
+    mEndSample: 362207
+  - mStartSample: 382052
+    mEndSample: 382052
+  - mStartSample: 401897
+    mEndSample: 401897
+  - mStartSample: 409422
+    mEndSample: 409422
+  - mStartSample: 423535
+    mEndSample: 423535
+  - mStartSample: 443204
+    mEndSample: 443204
+  - mStartSample: 462636
+    mEndSample: 462636
+  - mStartSample: 483703
+    mEndSample: 483703
+  - mStartSample: 494860
+    mEndSample: 494860
+  - mStartSample: 505209
+    mEndSample: 505209
+  - mStartSample: 525054
+    mEndSample: 525054
+  - mStartSample: 546604
+    mEndSample: 546604
+  - mStartSample: 567302
+    mEndSample: 567302
+  - mStartSample: 578679
+    mEndSample: 578679
+  - mStartSample: 589028
+    mEndSample: 589028
+  - mStartSample: 607844
+    mEndSample: 607844
+  - mStartSample: 630335
+    mEndSample: 630335
+  - mStartSample: 652062
+    mEndSample: 652062
+  - mStartSample: 671907
+    mEndSample: 671907
+  - mStartSample: 683020
+    mEndSample: 683020
+  - mStartSample: 694310
+    mEndSample: 694310
+  - mStartSample: 714067
+    mEndSample: 714067
+  - mStartSample: 733911
+    mEndSample: 733911
+  - mStartSample: 744304
+    mEndSample: 744304
+  - mStartSample: 755550
+    mEndSample: 755550
+  - mStartSample: 764958
+    mEndSample: 764958
+  - mStartSample: 777100
+    mEndSample: 777100
+  - mStartSample: 785567
+    mEndSample: 785567
+  - mStartSample: 796857
+    mEndSample: 796857
+  - mStartSample: 839281
+    mEndSample: 839281
+  - mStartSample: 862713
+    mEndSample: 862713
+  - mStartSample: 882470
+    mEndSample: 882470
+  - mStartSample: 902227
+    mEndSample: 902227
+  - mStartSample: 911767
+    mEndSample: 911767
+  - mStartSample: 923056
+    mEndSample: 923056
+  - mStartSample: 933273
+    mEndSample: 933273
+  - mStartSample: 942769
+    mEndSample: 942769
+  - mStartSample: 953162
+    mEndSample: 953162
+  - mStartSample: 964319
+    mEndSample: 964319
+  - mStartSample: 985017
+    mEndSample: 985017
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: A
+  - mTextVal: S
+  - mTextVal: D
+  - mTextVal: F
+  - mTextVal: J
+  - mTextVal: K
+  - mTextVal: L
+  - mTextVal: ;
+  - mTextVal: L
+  - mTextVal: K
+  - mTextVal: K
+  - mTextVal: K
+  - mTextVal: J
+  - mTextVal: H
+  - mTextVal: F
+  - mTextVal: D
+  - mTextVal: S
+  - mTextVal: A
+  - mTextVal: A
+  - mTextVal: S
+  - mTextVal: S
+  - mTextVal: A
+  - mTextVal: S
+  - mTextVal: S
+  - mTextVal: J
+  - mTextVal: J
+  - mTextVal: S
+  - mTextVal: D
+  - mTextVal: F
+  - mTextVal: J
+  - mTextVal: K
+  - mTextVal: L
+  - mTextVal: L
+  - mTextVal: L
+  - mTextVal: A
+  - mTextVal: S
+  - mTextVal: S
+  - mTextVal: D
+  - mTextVal: F
+  - mTextVal: A
+  - mTextVal: S
+  - mTextVal: D
+  - mTextVal: F
+  - mTextVal: A
+  - mTextVal: S
+  - mTextVal: D
+  - mTextVal: F
+  - mTextVal: A
+  - mTextVal: H
+  - mTextVal: J
+  - mTextVal: J
+  - mTextVal: K
+  - mTextVal: L
+  - mTextVal: K
+  - mTextVal: J
+  - mTextVal: F
+  - mTextVal: D
+  - mTextVal: S
+  - mTextVal: A
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a000000

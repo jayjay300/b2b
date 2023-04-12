@@ -6,9 +6,10 @@ public class ProtoController : MonoBehaviour
 {
 
     [SerializeField]
-    GameObject Player;
+    GameObject Player, Deck;
     [SerializeField]
-    GameObject Deck;
+    GameObject P1Track, P2Track;
+
     [SerializeField]
     Sprite SpriteWalk;
     [SerializeField]
@@ -62,12 +63,43 @@ public class ProtoController : MonoBehaviour
     {
         deck.SetActive(false);
         player.GetComponent<SpriteRenderer>().sprite = SpriteWalk;
+        flipController();
+
+
     }
 
     void endTransition(GameObject player, GameObject deck, bool isDance)
     {
         deck.SetActive(!isDance);
 
+        switchPlayerBehavior(player, isDance);
+
+        flipController(isDance);
+    }
+
+    void flipController(bool isDance)
+    {
+        if (isDance)
+        {
+            P1Track.SetActive(false);
+            P2Track.SetActive(true);
+        }
+        else
+        {
+            P1Track.SetActive(true);
+            P2Track.SetActive(false);
+        }
+    }
+
+    void flipController()
+    {
+        P1Track.SetActive(false);
+        P2Track.SetActive(false);
+
+    }
+
+    void switchPlayerBehavior(GameObject player, bool isDance)
+    {
         if (isDance)
         {
             player.GetComponent<SpriteRenderer>().sprite = SpriteDance;
